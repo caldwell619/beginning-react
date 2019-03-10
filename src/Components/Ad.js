@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 class Ad extends Component{
     render(){
+        const sayWazup = greeting => `Wazzzzzuppppp ${greeting}`;
         return(
             <div className="ad-cont">
                 <div className="title-cont">
