@@ -1,8 +1,6 @@
-# Getting Started With React
-The purpose of this guide is to get you familiar with the bare necesseties of React in order to get developing
+# Intro
+In this section we will be talking about boring stuff. If you don't care about unecessary React informtion feel free to [skip]() this section
 
-## Who is this for?
-Very beginner oriented. This guide assumes 0 familiarity with React, and only a basic knowledge of JavaScript. It also assumes little to no experience with the ES6 syntax of JavaScript
 
 ## Why should I learn this? 
 The world of frontend web development is rapidly evolving. There is no one size fits all solution when it comes to a frontend framework ( Angular, Vue.js, and React being the big 3 ). However different their implementation may be, the core ideas remain very similar. In summary, get with the times.
@@ -20,5 +18,3 @@ React definies itself as a library. [Seriously](https://reactjs.org/).
 
 ### TL;DR
 It comes down to both being code that other people wrote, that we will use to accomplish our own goals
-
-## 

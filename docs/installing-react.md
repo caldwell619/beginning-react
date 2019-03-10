@@ -25,7 +25,7 @@ When we say "globally installing", that means being able to execute the command 
 - Run `npm i -g create-react-app`. This will allow the command, `create-react-app` from anywhere we choose.
 - Find your desired project home. Wheteher that's a projects folder, or `IdeaProjects`, find where you'd like the **entire** folder of your React app to live.
 - Run `pwd`. If the very last thing is the folder you want to create another folder in, run `create-react-app NAME_OF_THE_REACT_APP_YOU_WANT`.
-- Jump to [here]().
+- Jump to [here](https://github.com/caldwell619/beginning-react/blob/master/docs/installing-react.md#finishing-up).
 
 #### The slick way
 I know you. Oh so fancy. You're a trend setter. Don't like to do things the "old" way with little to no justification. I see you.
