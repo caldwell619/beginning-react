@@ -2,23 +2,23 @@ import React, { Component } from 'react';
 
 class Ad extends Component{
     render(){
-        const sayWazup = greeting => `Wazzzzzuppppp ${greeting}`;
+        console.log(this.props)
         return(
             <div className="ad-cont">
                 <div className="title-cont">
-                    title
+                    {this.props.title}
                 </div>
                 <div className="price-cont">
-                    price
+                {this.props.price}
                 </div>
                 <div className="description-cont">
-                    description
+                    {this.props.description}
                 </div>
                 <div className="owner-cont">
-                    owner
+                    {this.props.owner}
                 </div>
                 <div className="category-cont">
-                    category                
+                    {this.props.category} 
                 </div>
             </div>
         )
