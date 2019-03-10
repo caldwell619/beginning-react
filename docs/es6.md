@@ -39,13 +39,13 @@ function sayWazup(greeting) {
     return (`Wazzzzzzup ${greeting}`)
 };
 ```
-4. New Way
+3. New Way
 ```
 const sayWazup = (greeting) => {
 	return ("Wazzzzzuppppp " + greeting)
 };
 ```
-5. New, and Slick Way
+4. New, and Slick Way
 ```
 const sayWazup = greeting => `Wazzzzzuppppp ${greeting}`;
 ```
