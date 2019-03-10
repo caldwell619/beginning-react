@@ -37,7 +37,7 @@ class Ad extends Component{
         return()
     }
 }
-export default App;
+export default Ad;
 ```
 
 
