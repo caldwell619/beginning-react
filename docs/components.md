@@ -57,7 +57,7 @@ With that in mind, we can start writing inside the `return()` statement
 
 My ad look like this:
 ```
-<div className="ad-cont"
+<div className="ad-cont">
     <div className="title-cont">
         title
     </div>
