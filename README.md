@@ -9,3 +9,7 @@ Very beginner oriented. This guide assumes 0 familiarity with React, and only a 
 ## Steps
 
 1. [Intro](https://github.com/caldwell619/beginning-react/blob/master/docs/intro.md)
+2. [Installing React](https://github.com/caldwell619/beginning-react/blob/master/docs/installing-react.md)
+3. [Disecting Boilerplate](https://github.com/caldwell619/beginning-react/blob/master/docs/disecting-boilerplate.md)
+4. [App.js](https://github.com/caldwell619/beginning-react/blob/master/docs/app-js.md)
+5. [Components](https://github.com/caldwell619/beginning-react/blob/master/docs/components.md)
