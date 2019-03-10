@@ -54,5 +54,5 @@ Don't worry too much about `package-lock.json`. It's there. GOT IT?!
 
 Now that that's out of the way..
 
-Check out the `src/` directory. This is where we will spend 90% of our time. Head to the [next section]().
+Check out the `src/` directory. This is where we will spend 90% of our time. Head to the [next section](https://github.com/caldwell619/beginning-react/blob/master/docs/app-js.md).
 
