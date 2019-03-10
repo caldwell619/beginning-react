@@ -34,6 +34,9 @@ We'' be making use of [npx](https://medium.com/@maybekatz/introducing-npx-an-npm
 
 If you have version 5.2 or later, you can simply follow the above directions to get to your desired directory, and run `npx create-react-app MY_AWESOME_SAUCE_APP`
 
+<hr>
+
+### Finishing Up
 Both of these methods will install a buttload of files, so just chill until its done.
 
 Then move on to the [next](https://github.com/caldwell619/beginning-react/blob/master/docs/disecting-boilerplate.md) step.
