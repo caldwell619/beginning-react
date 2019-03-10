@@ -1,5 +1,9 @@
 # Disecting Boilerplate
-Let's figure out what the young people are doing to my Google machine
+Let's figure out what the young people are doing to my Google machine. 
+
+Boilerplate in this context refers to a mold of pre-written code. In this context, it refers to the starter pack we got from `create-react-app`.
+
+ If someone says there's a lot of boilerplate, it means theres a lot of code that has to be written in order for a certain functionality to occur.
 
 ## File Structure
 We can see there are 3 directories, and a few files
