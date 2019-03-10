@@ -21,3 +21,4 @@ If you're here, learn. Google stuff, ask questions, don't assume that any one gu
 3. [Disecting Boilerplate](https://github.com/caldwell619/beginning-react/blob/master/docs/disecting-boilerplate.md)
 4. [App.js](https://github.com/caldwell619/beginning-react/blob/master/docs/app-js.md)
 5. [Components](https://github.com/caldwell619/beginning-react/blob/master/docs/components.md)
+6. [ES6 Syntax](https://github.com/caldwell619/beginning-react/blob/master/docs/es6.md)
